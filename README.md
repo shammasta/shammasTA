@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shammasta
 - 👀 I’m interested in ... mobile apps..flutter
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... how to build Beautyfull apps..android/ios
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shammas713@gmail.com
 
