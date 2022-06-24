@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shammasta
+- 👋 Hi, I’m @shammasali
 - 👀 I’m interested in ... mobile apps..flutter
 - 🌱 I’m currently learning ... how to build Beautyfull apps..android/ios
 - 💞️ I’m looking to collaborate on ...
